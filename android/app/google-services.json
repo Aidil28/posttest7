@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131016295695",
+    "project_id": "posttest7-aidil",
+    "storage_bucket": "posttest7-aidil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131016295695:android:4fdd393cf3c37b312eaa7a",
+        "android_client_info": {
+          "package_name": "com.posttest7.posttest4_1915016140_m_aidil_s_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131016295695-e1vudijjncg0ns39n45muahjue2f845v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA8HcTQtM4IT3tYTX295H6ZYKdF-4Lg4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131016295695-e1vudijjncg0ns39n45muahjue2f845v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
